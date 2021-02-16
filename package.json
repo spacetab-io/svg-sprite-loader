@@ -1,5 +1,5 @@
 {
-  "name": "@spacetabs/svg-sprite-loader",
+  "name": "@spacetab-io/svg-sprite-loader",
   "version": "4.1.6",
   "description": "Webpack loader for creating SVG sprites",
   "keywords": [
